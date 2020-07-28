@@ -21,7 +21,7 @@ a{
 	color: black;
 }
 img{
-	width: 450px;
+	max-width: 90%;
 	height: 300px;
 	margin: 10px;
 	transition: all 1s;
